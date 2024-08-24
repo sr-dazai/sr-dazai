@@ -1,8 +1,4 @@
-## Hi there 👋
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+## Oi eu sou Dazai, estudante de programação e hacking
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sr-dazai&show_icons=true&theme=transparent)](https://github.com/sr-dazai/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sr-dazai&layout=compact&theme=transparent)](https://github.com/sr-dazai/github-readme-stats)
