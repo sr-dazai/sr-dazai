@@ -1,6 +1,6 @@
 ## Oi eu sou Dazai, estudante de programação e hacking
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sr-dazai&show_icons=true&theme=github_dark )](https://github.com/sr-dazai/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sr-dazai&count_private=true&show_icons=true&theme=github_dark )](https://github.com/sr-dazai/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sr-dazai&layout=compact&theme=github_dark )](https://github.com/sr-dazai/github-readme-stats)
 
 ##
