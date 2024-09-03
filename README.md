@@ -1,7 +1,7 @@
-## Oi eu sou Dazai, estudante de programação e hacking
+## Olá, eu sou Dazai
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sr-dazai&include_orgs=true&count_private=true&show_icons=true&theme=github_dark )](https://github.com/sr-dazai/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sr-dazai&include_orgs=true&layout=compact&theme=github_dark )](https://github.com/sr-dazai/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sr-dazai&count_private=true&show_icons=true&theme=github_dark )](https://github.com/sr-dazai/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sr-dazai&layout=compact&theme=github_dark )](https://github.com/sr-dazai/github-readme-stats)
 
 <div style="display: inline_block"><br>
    <img align="center" alt="sr-dazai-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -9,7 +9,7 @@
    <img align="center" alt="sr-dazai-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
-   ##
+   <hr>
 
 <div>
    <a href="https://www.youtube.com/@sr_dazai" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
