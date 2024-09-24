@@ -1,19 +1,27 @@
-## Olá, eu sou Dazai
+<h1 align="center">Welcome to my GitHub</h1>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sr-dazai&count_private=true&show_icons=true&theme=github_dark )](https://github.com/sr-dazai/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sr-dazai&layout=compact&theme=github_dark )](https://github.com/sr-dazai/github-readme-stats)
+###
 
-<div style="display: inline_block"><br>
-   <img align="center" alt="sr-dazai-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="center" alt="sr-dazai-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="sr-dazai-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<h3 align="center">My Techs</h3>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
 
-   <hr>
+###
 
-<div>
-   <a href="https://www.youtube.com/@sr_dazai" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-   <a href="https://steamcommunity.com/id/SrDazai/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
-   <a href="https://discord.gg/tVNv6SNZZT" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-   <a href="https://instagram.com/kenned_candido" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<h3 align="center">My Stats</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sr-dazai&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sr-dazai&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=true&order=2" height="200" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sr-dazai&radius=16&theme=gotham&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
