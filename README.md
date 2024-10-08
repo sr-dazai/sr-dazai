@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sr-dazai&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&hide_border=true&order=1)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sr-dazai&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&hide_border=true&order=1)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sr-dazai&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=true&order=2)](https://github.com/sr-dazai/github-readme-stats)
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sr-dazai&radius=16&theme=gotham&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
